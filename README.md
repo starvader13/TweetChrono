@@ -1,9 +1,11 @@
-# README
+# TweetChrono
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Your Ruby on Rails-powered companion for seamless tweet scheduling and management.
 
-Things you may want to cover:
+**A user-friendly website utilizing Ruby on Rails and MVC architecture to empower users to conveniently schedule and manage their tweets, enhancing their social media engagement. Employed Bootstrap CSS for a polished and responsive design.**
+
+
+<!-- Things you may want to cover:
 
 * Ruby version
 
@@ -21,4 +23,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ... -->
